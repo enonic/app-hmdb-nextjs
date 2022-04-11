@@ -5,9 +5,9 @@ const projectLib = require('/lib/xp/project');
 const taskLib = require('/lib/xp/task');
 
 const projectData = {
-    id: 'hmdb',
-    displayName: 'Headless Demo',
-    description: 'Headless Movie DB sample content',
+    id: 'next',
+    displayName: 'Next.js demo',
+    description: 'Using Headless Movie DB sample content',
     language: 'en',
     readAccess: {
         public: true
@@ -43,7 +43,7 @@ const initialize = function () {
         const project = getProject();
         if (!project) {
             taskLib.executeFunction({
-                description: 'Importing HMDB content',
+                description: 'Importing content',
                 func: initProject
             });
         }
