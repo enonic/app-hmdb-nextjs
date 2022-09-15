@@ -1,3 +1,3 @@
-var proxy = require('/lib/nextjs-proxy/proxy');
+var proxy = require('/lib/nextjs/proxy');
 
 exports.get = proxy.get;
