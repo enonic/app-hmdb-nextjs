@@ -25,9 +25,10 @@ dependencies {
     include "com.enonic.xp:lib-export:${xpVersion}"
     include "com.enonic.xp:lib-task:${xpVersion}"
 
-    include "com.enonic.lib:lib-graphql-playground:0.0.1"
+    include "com.enonic.lib:lib-guillotine:6.0.4"
+    include "com.enonic.lib:lib-graphql-playground:0.0.2"
     include "com.enonic.lib:lib-thymeleaf:2.0.1"
-    include "com.enonic.lib:lib-nextjs-proxy:0.9.0"
+    include "com.enonic.lib:lib-nextjs:0.9.1-SNAPSHOT"
 }
 
 repositories {

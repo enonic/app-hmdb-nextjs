@@ -3,6 +3,7 @@ const clusterLib = require('/lib/xp/cluster');
 const exportLib = require('/lib/xp/export');
 const projectLib = require('/lib/xp/project');
 const taskLib = require('/lib/xp/task');
+const nextjsEventLib = require('/lib/nextjs/event');
 
 const projectData = {
     id: 'next',
@@ -46,11 +47,11 @@ const initialize = function () {
                 description: 'Importing content',
                 func: initProject
             });
-        }
-        else {
+        } else {
             log.debug(`Project ${project.id} exists, skipping import`);
         }
     });
+    nextjsEventLib.subscribe();
 };
 
 const initProject = function() {
