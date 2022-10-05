@@ -51,7 +51,6 @@ const initialize = function () {
             log.debug(`Project ${project.id} exists, skipping import`);
         }
     });
-
     nextjsEventLib.subscribe();
 };
 
