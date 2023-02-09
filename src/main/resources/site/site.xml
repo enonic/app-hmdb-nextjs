@@ -3,17 +3,7 @@
   <x-data name="SoMe" allowContentTypes="person|movie"/>
   <x-data name="spotlight" allowContentTypes="media:image"/>
   <form>
-    <input type="TextLine" name="nextjsUrl">
-      <label>NextJS server URL</label>
-      <default>http://localhost:3000</default>
-    </input>
-    <input type="TextLine" name="nextjsToken">
-      <label>NextJS API token</label>
-    </input>
   </form>
   <mappings>
-    <mapping controller="/lib/nextjs/proxy.js" order="99">
-      <pattern>/.*</pattern>
-    </mapping>
   </mappings>
 </site>
