@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">Se7en</string>
-        <string name="type">com.enonic.app.nextjsdemo:movie</string>
+        <string name="type">com.enonic.app.hmdbnextjs:movie</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2018-07-03T06:50:45.284Z</dateTime>
@@ -114,13 +114,13 @@
             <string isNull="true" name="website"/>
         </property-set>
         <property-set name="x">
-            <property-set name="com-enonic-app-nextjsdemo">
-                <property-set name="SoMe">
-                    <string name="imdb">https://www.imdb.com/title/tt0114369/</string>
-                    <string isNull="true" name="twitter"/>
-                    <string isNull="true" name="instagram"/>
-                </property-set>
+          <property-set name="com-enonic-app-hmdbnextjs">
+            <property-set name="SoMe">
+              <string name="imdb">https://www.imdb.com/title/tt0114369/</string>
+              <string isNull="true" name="twitter"/>
+              <string isNull="true" name="instagram"/>
             </property-set>
+          </property-set>
         </property-set>
     </data>
     <indexConfigs>

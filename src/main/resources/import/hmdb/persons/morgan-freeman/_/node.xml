@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">Morgan Freeman</string>
-        <string name="type">com.enonic.app.nextjsdemo:person</string>
+        <string name="type">com.enonic.app.hmdbnextjs:person</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2018-07-02T15:36:26.740Z</dateTime>
@@ -102,9 +102,9 @@
             <localDate name="dateofbirth">1937-06-01Z</localDate>
         </property-set>
         <property-set name="x">
-            <property-set name="com-enonic-app-nextjsdemo">
-                <property-set name="SoMe"/>
-            </property-set>
+          <property-set name="com-enonic-app-hmdbnextjs">
+            <property-set name="SoMe"/>
+          </property-set>
         </property-set>
     </data>
     <indexConfigs>

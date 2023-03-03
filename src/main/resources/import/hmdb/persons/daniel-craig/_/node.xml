@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">Daniel Craig</string>
-        <string name="type">com.enonic.app.nextjsdemo:person</string>
+        <string name="type">com.enonic.app.hmdbnextjs:person</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2021-11-23T09:26:48.908Z</dateTime>

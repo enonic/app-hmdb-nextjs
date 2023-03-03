@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">The Shawshank Redemption</string>
-        <string name="type">com.enonic.app.nextjsdemo:movie</string>
+        <string name="type">com.enonic.app.hmdbnextjs:movie</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2018-07-02T15:39:23.899Z</dateTime>
@@ -119,13 +119,13 @@
             <reference name="director">98a8aaa1-dd88-4463-9d34-2c1de34a0e70</reference>
         </property-set>
         <property-set name="x">
-            <property-set name="com-enonic-app-nextjsdemo">
-                <property-set name="SoMe">
-                    <string name="imdb">https://www.imdb.com/title/tt0111161/</string>
-                    <string isNull="true" name="twitter"/>
-                    <string isNull="true" name="instagram"/>
-                </property-set>
+          <property-set name="com-enonic-app-hmdbnextjs">
+            <property-set name="SoMe">
+              <string name="imdb">https://www.imdb.com/title/tt0111161/</string>
+              <string isNull="true" name="twitter"/>
+              <string isNull="true" name="instagram"/>
             </property-set>
+          </property-set>
         </property-set>
     </data>
     <indexConfigs>
