@@ -155,10 +155,10 @@
                     <string isNull="true" name="direction"/>
                 </property-set>
             </property-set>
-            <property-set name="com-enonic-app-nextjsdemo">
-                <property-set name="spotlight">
-                    <reference name="person">a8b374a2-c532-45eb-9aa1-73d1c37cd681</reference>
-                </property-set>
+            <property-set name="com-enonic-app-hmdbnextjs">
+              <property-set name="spotlight">
+                <reference name="person">a8b374a2-c532-45eb-9aa1-73d1c37cd681</reference>
+              </property-set>
             </property-set>
         </property-set>
         <property-set name="attachment">

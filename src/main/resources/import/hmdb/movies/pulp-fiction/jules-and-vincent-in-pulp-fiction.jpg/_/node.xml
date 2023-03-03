@@ -168,11 +168,11 @@
                     <string isNull="true" name="direction"/>
                 </property-set>
             </property-set>
-            <property-set name="com-enonic-app-nextjsdemo">
-                <property-set name="spotlight">
-                    <reference name="person">dc87d126-3330-4459-af17-26c94216242c</reference>
-                    <reference name="person">6d31fc67-d31b-4581-b891-5307dcd18aac</reference>
-                </property-set>
+            <property-set name="com-enonic-app-hmdbnextjs">
+              <property-set name="spotlight">
+                <reference name="person">dc87d126-3330-4459-af17-26c94216242c</reference>
+                <reference name="person">6d31fc67-d31b-4581-b891-5307dcd18aac</reference>
+              </property-set>
             </property-set>
         </property-set>
         <property-set name="attachment">

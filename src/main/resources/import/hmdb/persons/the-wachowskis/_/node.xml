@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">The Wachowskis</string>
-        <string name="type">com.enonic.app.nextjsdemo:person</string>
+        <string name="type">com.enonic.app.hmdbnextjs:person</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2021-03-18T08:18:09.870Z</dateTime>
@@ -102,9 +102,9 @@
             <localDate isNull="true" name="dateofbirth"/>
         </property-set>
         <property-set name="x">
-            <property-set name="com-enonic-app-nextjsdemo">
-                <property-set name="SoMe"/>
-            </property-set>
+          <property-set name="com-enonic-app-hmdbnextjs">
+            <property-set name="SoMe"/>
+          </property-set>
         </property-set>
     </data>
     <indexConfigs>

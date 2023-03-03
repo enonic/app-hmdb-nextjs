@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">The Shawshank Redemption celebrates 25th anniversary</string>
-        <string name="type">com.enonic.app.nextjsdemo:article</string>
+        <string name="type">com.enonic.app.hmdbnextjs:article</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2021-11-23T10:43:01.506Z</dateTime>

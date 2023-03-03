@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">Uma Thurman</string>
-        <string name="type">com.enonic.app.nextjsdemo:person</string>
+        <string name="type">com.enonic.app.hmdbnextjs:person</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2018-07-03T05:58:55.025Z</dateTime>
@@ -102,13 +102,13 @@
             <localDate name="dateofbirth">1970-04-29Z</localDate>
         </property-set>
         <property-set name="x">
-            <property-set name="com-enonic-app-nextjsdemo">
-                <property-set name="SoMe">
-                    <string name="imdb">https://www.imdb.com/name/nm0000235/</string>
-                    <string isNull="true" name="twitter"/>
-                    <string isNull="true" name="instagram"/>
-                </property-set>
+          <property-set name="com-enonic-app-hmdbnextjs">
+            <property-set name="SoMe">
+              <string name="imdb">https://www.imdb.com/name/nm0000235/</string>
+              <string isNull="true" name="twitter"/>
+              <string isNull="true" name="instagram"/>
             </property-set>
+          </property-set>
         </property-set>
     </data>
     <indexConfigs>
