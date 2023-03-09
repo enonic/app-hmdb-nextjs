@@ -155,7 +155,7 @@
                     <string isNull="true" name="direction"/>
                 </property-set>
             </property-set>
-            <property-set name="com-enonic-app-hmdbnextjs">
+            <property-set name="com-enonic-app-hmdb-nextjs">
                 <property-set name="spotlight">
                     <reference name="person">f29ba9b7-a73a-4767-82db-9da4df952924</reference>
                 </property-set>

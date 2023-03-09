@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">Pulp Fiction</string>
-        <string name="type">com.enonic.app.hmdbnextjs:movie</string>
+        <string name="type">com.enonic.app.hmdb.nextjs:movie</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2018-07-03T06:10:50.252Z</dateTime>
@@ -119,7 +119,7 @@
             <string name="website">https://www.miramax.com/movie/pulp-fiction/</string>
         </property-set>
         <property-set name="x">
-          <property-set name="com-enonic-app-hmdbnextjs">
+          <property-set name="com-enonic-app-hmdb-nextjs">
             <property-set name="SoMe">
               <string name="imdb">https://www.imdb.com/title/tt0110912/</string>
               <string isNull="true" name="twitter"/>

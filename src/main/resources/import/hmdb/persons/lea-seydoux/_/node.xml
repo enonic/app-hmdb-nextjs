@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">Léa Seydoux</string>
-        <string name="type">com.enonic.app.hmdbnextjs:person</string>
+        <string name="type">com.enonic.app.hmdb.nextjs:person</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2021-11-23T13:06:38.493Z</dateTime>

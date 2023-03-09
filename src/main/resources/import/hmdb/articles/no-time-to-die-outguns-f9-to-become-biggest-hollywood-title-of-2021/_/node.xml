@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">No Time To Die outguns F9 to become biggest hollywood title of 2021</string>
-        <string name="type">com.enonic.app.hmdbnextjs:article</string>
+        <string name="type">com.enonic.app.hmdb.nextjs:article</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2021-11-23T12:23:16.978Z</dateTime>

@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">The Dark Knight</string>
-        <string name="type">com.enonic.app.hmdbnextjs:movie</string>
+        <string name="type">com.enonic.app.hmdb.nextjs:movie</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2018-07-02T15:32:31.868Z</dateTime>
@@ -115,7 +115,7 @@
             <reference name="director">d417a0fd-fb0a-4e09-9bc4-4a15caf689f8</reference>
         </property-set>
         <property-set name="x">
-          <property-set name="com-enonic-app-hmdbnextjs">
+          <property-set name="com-enonic-app-hmdb-nextjs">
             <property-set name="SoMe">
               <string name="imdb">https://www.imdb.com/title/tt0468569/</string>
               <string isNull="true" name="twitter"/>

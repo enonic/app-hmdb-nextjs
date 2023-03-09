@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">Carrie-Anne Moss</string>
-        <string name="type">com.enonic.app.hmdbnextjs:person</string>
+        <string name="type">com.enonic.app.hmdb.nextjs:person</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2018-07-03T06:36:49.784Z</dateTime>
@@ -102,7 +102,7 @@
             <localDate name="dateofbirth">1967-08-21Z</localDate>
         </property-set>
         <property-set name="x">
-          <property-set name="com-enonic-app-hmdbnextjs">
+          <property-set name="com-enonic-app-hmdb-nextjs">
             <property-set name="SoMe">
               <string name="imdb">https://www.imdb.com/name/nm0005251/</string>
               <string name="twitter">@AnnapurnaLiving</string>

@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">CTO's favorite movies</string>
-        <string name="type">com.enonic.app.hmdbnextjs:playlist</string>
+        <string name="type">com.enonic.app.hmdb.nextjs:playlist</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2018-07-03T08:05:24.246Z</dateTime>

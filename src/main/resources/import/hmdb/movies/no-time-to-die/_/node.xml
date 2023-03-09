@@ -84,7 +84,7 @@
     <data>
         <boolean name="valid">true</boolean>
         <string name="displayName">No time to die</string>
-        <string name="type">com.enonic.app.hmdbnextjs:movie</string>
+        <string name="type">com.enonic.app.hmdb.nextjs:movie</string>
         <string name="owner">user:system:su</string>
         <string name="language">en</string>
         <dateTime name="modifiedTime">2021-11-23T10:10:26.682Z</dateTime>

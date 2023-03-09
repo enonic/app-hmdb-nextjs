@@ -101,16 +101,16 @@
             <property-set name="checks"/>
         </property-set>
         <property-set name="data">
-            <string name="supports">com.enonic.app.hmdbnextjs:movie</string>
+            <string name="supports">com.enonic.app.hmdb.nextjs:movie</string>
         </property-set>
         <property-set name="components">
             <string name="type">page</string>
             <string name="path">/</string>
             <property-set name="page">
-              <string name="descriptor">com.enonic.app.hmdbnextjs:main</string>
+              <string name="descriptor">com.enonic.app.hmdb.nextjs:main</string>
                 <boolean name="customized">false</boolean>
                 <property-set name="config">
-                  <property-set name="com-enonic-app-hmdbnextjs">
+                  <property-set name="com-enonic-app-hmdb-nextjs">
                     <property-set name="main"/>
                   </property-set>
                 </property-set>
@@ -120,7 +120,7 @@
             <string name="type">part</string>
             <string name="path">/main/0</string>
             <property-set name="part">
-              <string name="descriptor">com.enonic.app.hmdbnextjs:movie-details</string>
+              <string name="descriptor">com.enonic.app.hmdb.nextjs:movie-details</string>
             </property-set>
         </property-set>
     </data>
@@ -142,7 +142,7 @@
                     <fulltext>false</fulltext>
                     <includeInAllText>false</includeInAllText>
                 </indexConfig>
-              <path>components.part.config.com-enonic-app-hmdbnextjs.movie-details</path>
+              <path>components.part.config.com-enonic-app-hmdb-nextjs.movie-details</path>
             </pathIndexConfig>
             <pathIndexConfig>
                 <indexConfig>
