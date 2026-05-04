@@ -1,0 +1,7 @@
+[versions]
+graphql-playground = "0.0.2"
+thymeleaf = "3.0.0-SNAPSHOT"
+
+[libraries]
+lib-graphql-playground = { module = "com.enonic.lib:lib-graphql-playground", version.ref = "graphql-playground" }
+lib-thymeleaf          = { module = "com.enonic.lib:lib-thymeleaf",          version.ref = "thymeleaf" }

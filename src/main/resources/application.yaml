@@ -1,0 +1,5 @@
+kind: "Application"
+title: "Next.js demo"
+description: "Using Enonic as a CMS back-end for Next.js"
+vendorName: "Enonic"
+vendorUrl: "https://enonic.com"
